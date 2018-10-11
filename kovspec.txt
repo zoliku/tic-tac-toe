@@ -1,4 +1,4 @@
-tic ta toe
+tic tac toe
 
 1. Áttekintés
 
