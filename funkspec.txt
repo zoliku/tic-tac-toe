@@ -1,22 +1,22 @@
+tic tac toe
 
-1.Jelenlegi helyzet leírása.
+1. Jelenlegi helyzet
+Szükség lesz egy jól mûködõ weboldalra.
+Az alap weboldal kész.
 
-2.Vágyálomrendszer leírása.
+2. Vágyálomrendszer leírása.
+Egy weboldalon javasctipt által vezérelt játékprogram.
+Az oldal tudja követni a játék állását.
+Szép színes legyen az oldal.
 
-3.A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
+3. követelmények
+-játék a gép ellen
+-játék állásának vezetése
+-színekkel formázás
+-3x3-as játéktábla
 
-4.Jelenlegi üzleti folyamatok modellje.
-
-5.Igényelt üzleti folyamatok modellje.
-
-6.Követelménylista
-
-7.Használati esetek.
-
-8.Képernyõtervek.
-
-9.Forgatókönyvek.
-
-10.Funkció –követelmény megfeleltetés.
-
-11.Fogalomszótár
+4.Funkció –követelmény megfeleltetés.
+-játék a gép ellen -nem megfelelõ
+-játék állásának vezetése - nem megfelelõ
+-színekkel formázás -nem megfelelõ
+-3x3-as játéktábla - megfelelõ
