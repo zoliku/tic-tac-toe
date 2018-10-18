@@ -1,10 +1,18 @@
 tic tac toe
 
-1. Áttekintés
+1. Jelenlegi helyzet
+Szükség lesz egy jól mûködõ weboldalra.
+Az alap weboldal kész.
 
-2. Jelenlegi helyzet
+2. Vágyálomrendszer leírása.
+Egy weboldalon javasctipt által vezérelt játékprogram.
+Az oldal tudja követni a játék állását.
+Szép színes legyen az oldal.
 
-3. Funkcionális követelmények
+3. követelmények
+-játék a gép ellen
+-játék állásának vezetése
+-színekkel formázás
+-3x3-as játéktábla
 
-4. Technikai követelmények
 
